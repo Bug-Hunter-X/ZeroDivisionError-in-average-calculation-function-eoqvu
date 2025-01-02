@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: ZeroDivisionError. The bug occurs when calculating the average of an empty list, resulting in division by zero. The solution shows how to handle this error using a conditional check for an empty list.
